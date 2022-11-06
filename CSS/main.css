@@ -1,0 +1,48 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.black_color
+{
+    color: black;
+}
+.green_Color
+{
+    color:#82CD47;
+}
+
+.main_content
+{
+    height: 100vh;
+}
+.Home_Container
+{
+    padding: 15px;
+}
+.descTopic
+{
+    padding-left: 10%;
+    background-color: rgba(255, 255, 255, 0.06);
+}
+.Btn
+{
+    padding: 5px;
+    border: 2px solid #82CD47;
+    color: #82CD47;
+    background-color: transparent;
+    transition: all 0.6s;
+}
+.Btn:hover
+{
+    background-color: #82CD47;
+    color: white;
+}
